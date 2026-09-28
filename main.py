@@ -36,10 +36,12 @@ if __name__ == "__main__":
   #--- Alphanumeric String Checker ---
   #Enter a string to check: Student2026
   #Success: The string 'Student2026' contains ONLY valid characters (a-z, A-Z, 0-9).
+  
   #Scenario 2: Invalid Input (Contains Special Characters or Spaces)
   #text--- Alphanumeric String Checker ---
   #Enter a string to check: Hello @ World!
   #Invalid: The string 'Hello @ World!' contains unauthorized special characters or spaces.
+  
   #Scenario 3: Empty Input (Pressing Enter without typing)
   #--- Alphanumeric String Checker ---
   #Enter a string to check: 
